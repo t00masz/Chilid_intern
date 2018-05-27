@@ -267,7 +267,8 @@
     clear:both;
     position:relative;
     text-align:center;
-}
+    cursor: pointer;
+    }
 
 .pagination a {
     float: center;

@@ -256,18 +256,18 @@
     background: #F1F6FC
   }
 
-  .conteiner2 {
+.conteiner2 {
     padding-top: 10%;
     width: 100%;
     text-align: center;
-    
-    }
+
+}
     
 .pagination {
     clear:both;
     position:relative;
     text-align:center;
-    }
+}
 
 .pagination a {
     float: center;
@@ -439,6 +439,7 @@
     clear:both;
     position:relative;
     text-align:center;
+    cursor: pointer;
     }
     
 .pagination a {
@@ -585,6 +586,7 @@
         clear:both;
         position:relative;
         text-align:center;
+        cursor: pointer;
         }
     
     .pagination a {
